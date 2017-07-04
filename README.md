@@ -1,2 +1,6 @@
 # Hallo-World
-just a repository
+
+Greetings Hoomans,
+
+  I like C#.
+  
